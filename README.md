@@ -3,6 +3,13 @@
 #### AIM : To mimic industrial training in a VR environment
 #### SCENARIO : Boiler Feedwater plant control room operator training
 
+
+#### Team Mates 
+ 1. Sheen Xavier
+ 2. Dhanesh P S 
+ 3. Ruhi Thomas
+ 4. Maria Paul T
+
 ---
 
 ## INSTALLATION
